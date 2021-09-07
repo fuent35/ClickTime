@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for testing negative path</description>
+   <name>Negative Path</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d264f374-d677-40a0-9e8d-a755c288dd8b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>424254e2-fa26-455f-af0f-16286d38cfd4</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83b9a7cc-f086-40fb-b071-b839923c375c</id>
+      <masked>false</masked>
+      <name>word</name>
+   </variable>
+</TestCaseEntity>

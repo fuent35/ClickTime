@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>ClickTime URL</description>
+      <initValue>'https://clicktime-wordgame-exercise.vercel.app/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Categories</description>
+      <initValue>['TV Shows','Movies', 'Books', 'Places', 'Animals', 'Foods']</initValue>
+      <name>categories</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Name Value</description>
+      <initValue>'Daniel'</initValue>
+      <name>userName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TV Shows'</initValue>
+      <name>defaultCategory</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z']</initValue>
+      <name>alphabet</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['Q', 'K', 'V', 'W', 'Z', 'Y', 'X']</initValue>
+      <name>wrongWords</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>['SUHI', 'NEWYORK', 'CRIMEANDPUSHT', 'THEMATRIX', 'FRIENDS']</initValue>
+      <name>answers</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

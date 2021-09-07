@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UI Validations</description>
+   <name>User interface validations</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af51a8c3-65fc-4c26-b2f8-0da2c8db46b2</testCaseGuid>
+</TestCaseEntity>
